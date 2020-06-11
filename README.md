@@ -19,6 +19,12 @@ Usage of Shellphish for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
+apt update
+apt upgrade
+apt install php
+apt install curl
+apt install wget
+apt install git
 git clone https://github.com/Freaked-Dude/FreakedDudePhish
 cd FreakedDudePhish
 bash freakphish.sh
